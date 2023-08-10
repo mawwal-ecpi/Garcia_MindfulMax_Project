@@ -1,6 +1,5 @@
 {
   "name": "garcia_spn_image",
-  "homepage": "http://mawwal-ecpi.github.io/Garcia_MindfulMax_project/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
